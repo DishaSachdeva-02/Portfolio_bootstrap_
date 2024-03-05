@@ -1,0 +1,32 @@
+#hello{
+    transition: width 2s linear 1s;
+}
+
+@media screen and (1000px>width>200px) {
+    #scrollspyHeading1{
+        padding-left:20px;
+        padding-top: 70px;
+    }
+    #button{
+        width: 200px;
+        font-size: auto;
+    }
+    #scrollspyHeading2{
+        height:750px;
+    }
+    #scrollspyHeading3{
+        height:600px;
+    }
+    #scrollspyHeading4{
+        height:300px;
+    }
+    #scrollspyHeading5{
+        height:700px;
+        
+    }
+    #scrollspyHeading6{
+       padding-top: 20px;
+        
+    }
+    
+}
